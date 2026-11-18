@@ -1,0 +1,21 @@
+{
+  "name": "ctu_ac_merch",
+  "version": "1.0.0",
+  "description": "Mobile kiosk\r Members:\r Cheryl Jane Geoman\r Rona Mae Gesim\r Dominic Magalso\r Kharen Revillas\r Vexze Semilla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cheryl18-maker/CTU_AC_MERCH.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Cheryl18-maker/CTU_AC_MERCH/issues"
+  },
+  "homepage": "https://github.com/Cheryl18-maker/CTU_AC_MERCH#readme"
+}
